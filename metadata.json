@@ -1,0 +1,6 @@
+{
+  "name": "JLD Digital Solutions",
+  "description": "Aplicativo web mobile-first para soluções digitais de agendamento, ordens de serviço e software sob medida com painel administrativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
